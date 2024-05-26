@@ -1,11 +1,10 @@
 <a name="readme-top"></a>
 
 <!-- PROJECT LOGO -->
-### Car Price Predictor
 <br />
 <div align="center">
 
-<h3 align="center">Car Price Predictor</h3>
+<h2 align="center">Used Car Price Predictor</h2>
 
   <p align="center">
     <a href="https://github.com/omar-bahgat/Car-Price-Predictor/issues">Report Bug</a>
@@ -16,8 +15,6 @@
 
 
 <!-- ABOUT THE PROJECT -->
-
-# Car Price Predictor
 
 ## About The Project:
 
